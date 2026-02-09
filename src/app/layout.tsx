@@ -4,7 +4,7 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
-  title: 'FindDoc - Find and Book Doctors in Hong Kong',
+title: 'Doctor Nearest - Find and Book Doctors in Hong Kong',
   description: 'Hong Kong\'s #1 Medical and Healthcare Information and Appointment Platform',
 }
 

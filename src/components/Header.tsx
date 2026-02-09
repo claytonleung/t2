@@ -12,7 +12,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-[70px]">
           {/* Logo */}
           <Link href="/" className="text-[28px] font-bold text-primary flex items-center gap-2">
-            Find<span className="text-secondary">Doc</span>
+Doctor<span className="text-secondary">Nearest</span>
           </Link>
 
           {/* Desktop Navigation */}

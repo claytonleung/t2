@@ -50,7 +50,7 @@ export default function Footer() {
 
           {/* Column 5 */}
           <div>
-            <h4 className="text-base font-semibold mb-5">About FindDoc</h4>
+<h4 className="text-base font-semibold mb-5">About Doctor Nearest</h4>
             <ul className="space-y-3">
               <li><Link href="/about" className="text-gray-400 text-sm hover:text-white transition-colors">About Us</Link></li>
               <li><Link href="/careers" className="text-gray-400 text-sm hover:text-white transition-colors">Careers</Link></li>
@@ -64,7 +64,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="border-t border-gray-700 pt-6 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-400 text-sm">
-            &copy; 2024 FindDoc. All rights reserved. Hong Kong's #1 Healthcare Platform.
+&copy; 2024 Doctor Nearest. All rights reserved. Hong Kong's #1 Healthcare Platform.
           </p>
           <div className="flex gap-4">
             <a href="#" className="w-10 h-10 bg-gray-700 rounded-full flex items-center justify-center hover:bg-primary transition-colors" title="Facebook">f</a>

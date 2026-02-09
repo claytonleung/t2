@@ -80,7 +80,7 @@ export default function PrivacyPage() {
             <h2 className="text-2xl font-bold mb-4 text-gray-800">7. Contact Us</h2>
             <p className="text-gray-600 mb-6 leading-relaxed">
               If you have any questions about this Privacy Policy, please contact us at{' '}
-              <a href="mailto:privacy@finddoc.com" className="text-primary hover:underline">privacy@finddoc.com</a>
+<a href="mailto:privacy@doctornearest.com" className="text-primary hover:underline">privacy@doctornearest.com</a>
             </p>
 
             <div className="mt-10 pt-6 border-t text-gray-400 text-sm">

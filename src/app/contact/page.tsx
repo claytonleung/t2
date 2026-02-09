@@ -28,7 +28,7 @@ export default function ContactPage() {
                   <div className="w-12 h-12 bg-gray-100 rounded-xl flex items-center justify-center text-2xl flex-shrink-0">📧</div>
                   <div>
                     <h4 className="font-semibold text-gray-800">Email Us</h4>
-                    <a href="mailto:support@finddoc.com" className="text-gray-600 hover:text-primary">support@finddoc.com</a>
+<a href="mailto:support@doctornearest.com" className="text-gray-600 hover:text-primary">support@doctornearest.com</a>
                     <p className="text-sm text-gray-400">For general inquiries</p>
                   </div>
                 </div>
